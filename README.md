@@ -1,1 +1,1 @@
-# Anaisis_Sintesis_Mecanismos_Baicos
+# Anaisis_Sintesis_Mecanismos_Basicos
